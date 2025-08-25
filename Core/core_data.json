@@ -1,0 +1,2956 @@
+[
+    {
+        "English Question Number":5,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"أ",
+        "Question Text":"بشكل عام كانت صحتي جيدة ، خلال السنوات القليلة الماضية"
+    },
+    {
+        "English Question Number":6,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"ب",
+        "Question Text":"مرة واحدة في الاسبوع اشعر فجأة بالحرارة الشديدة دون سبب ظاهر"
+    },
+    {
+        "English Question Number":7,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"د",
+        "Question Text":"اتحاشى اذا استطعت مشهداً ذات طابع جنسي"
+    },
+    {
+        "English Question Number":8,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"ز",
+        "Question Text":"اظهر بصورة دائمة كل همومي لشخص واحد (صديق، رفيق، مرشد...)"
+    },
+    {
+        "English Question Number":9,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"ط",
+        "Question Text":"باستطاعتي ان أوثر بشكل جيد على الاخرين"
+    },
+    {
+        "English Question Number":10,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"ه",
+        "Question Text":"اذا وجد عدة اشخاص في وضع سيء، فإن أفضل ما يقومون به هو التوافق حول مسألة معينة والتماسك حولها"
+    },
+    {
+        "English Question Number":11,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"و",
+        "Question Text":"ارغب بالبقاء جالساً او حالماً على ان افعل اي شيء كان"
+    },
+    {
+        "English Question Number":12,
+        "X":1,
+        "Y":1,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب ان أكون ممرضاً"
+    },
+    {
+        "English Question Number":14,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"أ",
+        "Question Text":"إنني بصحة جيدة كمعظم أصدقائي"
+    },
+    {
+        "English Question Number":15,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"ب",
+        "Question Text":"لا أفهم الآن ما أقرأه كما في الماضي"
+    },
+    {
+        "English Question Number":16,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"ح",
+        "Question Text":"غالباً ما شعرت بان هناك أشخاص ينظرون الي وكانهم يريدون انتقادي"
+    },
+    {
+        "English Question Number":17,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"د",
+        "Question Text":"احب التحدث بمسائل ذات طابع جنسي"
+    },
+    {
+        "English Question Number":18,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"ط",
+        "Question Text":"احياناً يكون هناك ضرر أو إيذاء لأشخاص احبهم"
+    },
+    {
+        "English Question Number":19,
+        "X":2,
+        "Y":2,
+        "Arabic Question Number":"و",
+        "Question Text":"في مجموعة ما ، لن اكون محرجاً اذا ما دعيت للمباشرة بنقاش أو اعطاء وجهة نظري حول أمر اعرفه جيداً"
+    },
+    {
+        "English Question Number":21,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم أشعر بالارتياح أبداً مثلما أشعر به اليوم"
+    },
+    {
+        "English Question Number":22,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ب",
+        "Question Text":"اعرق بسهولة ، حتى ولو كان الجو لطيفاً"
+    },
+    {
+        "English Question Number":23,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ج",
+        "Question Text":"بعض افراد عائلتي لديهم عادات تضجرني وتزعجني أحياناً"
+    },
+    {
+        "English Question Number":24,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ح",
+        "Question Text":"انني متأكد بأنهم يتحدثون عني"
+    },
+    {
+        "English Question Number":25,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ز",
+        "Question Text":"لدي قناعة بأن خطاياي لا تغتفر"
+    },
+    {
+        "English Question Number":26,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ط",
+        "Question Text":"سررت احياناً لمجرد ان احد الاحباء قد صدني أو منعني من عمل اقوم به"
+    },
+    {
+        "English Question Number":27,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"ه",
+        "Question Text":"اعتقد انه من الانسب بالنسبة لي ان اصمت عندما أجد نفسي في وضع سيء"
+    },
+    {
+        "English Question Number":28,
+        "X":3,
+        "Y":3,
+        "Arabic Question Number":"و",
+        "Question Text":"في الصف ايام المدرسة ، كنت استصعب التكلم مع رفاقي"
+    },
+    {
+        "English Question Number":30,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"أ",
+        "Question Text":"انني لا أزيد سمنة ، لأنني احافظ على وزني."
+    },
+    {
+        "English Question Number":31,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"ب",
+        "Question Text":"احياناً عندما أكون منزعجاً، اتصبب عرقاً وهذا ما يزعجني جداً"
+    },
+    {
+        "English Question Number":32,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"ح",
+        "Question Text":"لدي انطباع احياناً أن هناك من يتبعني"
+    },
+    {
+        "English Question Number":33,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"ز",
+        "Question Text":"لم أعش حياتي بشكل مستقيم"
+    },
+    {
+        "English Question Number":34,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"ط",
+        "Question Text":"اعذب أحياناً الحيوانات"
+    },
+    {
+        "English Question Number":35,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"و",
+        "Question Text":"ينتابني الخجل بسهولة"
+    },
+    {
+        "English Question Number":36,
+        "X":4,
+        "Y":4,
+        "Arabic Question Number":"ي",
+        "Question Text":"يبدو لي أحياناً انني سأنهار"
+    },
+    {
+        "English Question Number":38,
+        "X":5,
+        "Y":5,
+        "Arabic Question Number":"أ",
+        "Question Text":"انني لا اتعب بسرعة"
+    },
+    {
+        "English Question Number":39,
+        "X":5,
+        "Y":5,
+        "Arabic Question Number":"ج",
+        "Question Text":"ذعرت او ارتعبت من تصرفات بعض أفراد عائلتي"
+    },
+    {
+        "English Question Number":40,
+        "X":5,
+        "Y":5,
+        "Arabic Question Number":"د",
+        "Question Text":"لم أمارس أبداً الجنس بصورة غير اعتيادية"
+    },
+    {
+        "English Question Number":41,
+        "X":5,
+        "Y":5,
+        "Arabic Question Number":"و",
+        "Question Text":"اتمنى أن لا اكون خجولاً"
+    },
+    {
+        "English Question Number":42,
+        "X":5,
+        "Y":5,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب مجلات التكنولوجيا"
+    },
+    {
+        "English Question Number":44,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"أ",
+        "Question Text":"نادراً ما اقلق بشأن صحتي"
+    },
+    {
+        "English Question Number":45,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ب",
+        "Question Text":"ليس لدي أي نوع من الحساسية"
+    },
+    {
+        "English Question Number":46,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ج",
+        "Question Text":"اتتني لحظات كانت لدي رغبة كبيرة جداً لمغادرة المنزل"
+    },
+    {
+        "English Question Number":47,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ح",
+        "Question Text":"لقد حاولوا التأثير علي"
+    },
+    {
+        "English Question Number":48,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"د",
+        "Question Text":"ينبغي علينا تعليم الاولاد جميع الحالات الرئيسية للمسائل الجنسية"
+    },
+    {
+        "English Question Number":49,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ز",
+        "Question Text":"لقد أخذت فعلاً اكثر من حاجتي من الازعاج"
+    },
+    {
+        "English Question Number":50,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ط",
+        "Question Text":"لا تزعجني بشكل خاص رؤية الحيوانات تتعذب"
+    },
+    {
+        "English Question Number":51,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"و",
+        "Question Text":"انني لا اهتم بشكل خاص للأثر الذي أتركه"
+    },
+    {
+        "English Question Number":52,
+        "X":6,
+        "Y":6,
+        "Arabic Question Number":"ي",
+        "Question Text":"حدث لي ان تعرضت لحالات ذعر في منتصف الليل"
+    },
+    {
+        "English Question Number":54,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ب",
+        "Question Text":"انني اسعل معظم الاوقات"
+    },
+    {
+        "English Question Number":55,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ج",
+        "Question Text":"تقريباً كل اهلي يتعاطفون معي"
+    },
+    {
+        "English Question Number":56,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ح",
+        "Question Text":"احدهم يسيطر على عقلي"
+    },
+    {
+        "English Question Number":57,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بأن النساء ينبغي أن يتحررن جنسياً بنفس قدر حرية الرجال"
+    },
+    {
+        "English Question Number":58,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ز",
+        "Question Text":"لا ابدو انني اهتم بما يجري لي"
+    },
+    {
+        "English Question Number":59,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ط",
+        "Question Text":"احياناً انجذب بقوة لأشياء شخصية كالثياب أو الأحذية، أوالقفازات، الخ.. الى حد أرغب معه اقتناؤها او شراؤها معه اقتناؤها او شراؤها"
+    },
+    {
+        "English Question Number":60,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ه",
+        "Question Text":"لا الوم كل الذي يريد استغلال كل ما بإمكانه استغلاله في هذه الدنيا"
+    },
+    {
+        "English Question Number":61,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"و",
+        "Question Text":"انني لا انزعج بما يفكر به الآخرين عني"
+    },
+    {
+        "English Question Number":62,
+        "X":7,
+        "Y":7,
+        "Arabic Question Number":"ي",
+        "Question Text":"اعتقد بأنني سأحب عمل مقاول بناء"
+    },
+    {
+        "English Question Number":64,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"أ",
+        "Question Text":"اعتقد بأنني لست اكثر عصبياً من المعدل الوسطي للناس"
+    },
+    {
+        "English Question Number":65,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"ب",
+        "Question Text":"انني لم اراجع أبداً دماً سواء أكان عند البصق او عند السعلة."
+    },
+    {
+        "English Question Number":66,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"ج",
+        "Question Text":"واحد او البعض من أفراد عائلتي عصبي جداً"
+    },
+    {
+        "English Question Number":67,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"ح",
+        "Question Text":"شعرت في مرحلة او في عدة مراحل بان احد كان يحاول ان ينومني مغنطيسياً"
+    },
+    {
+        "English Question Number":68,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"د",
+        "Question Text":"انني متدين وأقوم بواجباتي الدينية بشكل منتظم"
+    },
+    {
+        "English Question Number":69,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"ط",
+        "Question Text":"لا أحد يكترث لما قد يحدث معي"
+    },
+    {
+        "English Question Number":70,
+        "X":8,
+        "Y":8,
+        "Arabic Question Number":"و",
+        "Question Text":"انني انزعج بأن العب في لعبة ما امام مجموعة من الاصدقاء حتى ولو ان كل فرد من أفراد هذه المجموعة يشارك في اللعب"
+    },
+    {
+        "English Question Number":72,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"أ",
+        "Question Text":"اعتقد بأنني اشعر بعمق لمشاكل الاخرين اكثر من سواي"
+    },
+    {
+        "English Question Number":73,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ب",
+        "Question Text":"احسست نادرًا باوجاع في القلب او في الرئتين"
+    },
+    {
+        "English Question Number":74,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ج",
+        "Question Text":"لدي اسبابي لأشعر بالغيرة من أحد او من بعض أفراد عائلتي"
+    },
+    {
+        "English Question Number":75,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ح",
+        "Question Text":"لدي ميل للتحفظ مع اناس يعربون عن موقف صداقة تجاهي أكثر مما كنت اتوقع"
+    },
+    {
+        "English Question Number":76,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ز",
+        "Question Text":"لدي قناعة بأني فرد محكوم عليه"
+    },
+    {
+        "English Question Number":77,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ط",
+        "Question Text":"الانسان القادر على العمل بجدية لديه حظ كبير بالنجاح"
+    },
+    {
+        "English Question Number":78,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"ه",
+        "Question Text":"اذا اخطأ احدهم معي، اشعر بأنه ينبغي علي أن ابادله بالمثل"
+    },
+    {
+        "English Question Number":79,
+        "X":9,
+        "Y":9,
+        "Arabic Question Number":"و",
+        "Question Text":"ينبغي في غالب الاحيان أن اقاوم ضد خجلي كي لا تظهر معالمه علي"
+    },
+    {
+        "English Question Number":81,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"أ",
+        "Question Text":"نادراً ما اشعر بألم في الرأس"
+    },
+    {
+        "English Question Number":82,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ب",
+        "Question Text":"لم أحس تقريباً ابداً بخفقان القلب، وأنني نادراً ما يضيق نفسي"
+    },
+    {
+        "English Question Number":83,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ج",
+        "Question Text":"من وقت الى آخر اظهر بغضاً لبعض أفراد عائلتي  الذين أحبهم عادة"
+    },
+    {
+        "English Question Number":84,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ح",
+        "Question Text":"أتسائل تكراراً عن السبب الكامن وراء محبة شخص لي"
+    },
+    {
+        "English Question Number":85,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"د",
+        "Question Text":"اذهب الى الكنيسة او الى الجامع تقريباً كل اسبوع"
+    },
+    {
+        "English Question Number":86,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ز",
+        "Question Text":"اتمنى أحياناً ان اكون ميتاً"
+    },
+    {
+        "English Question Number":87,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب أن اهزم نصاب في عقر داره"
+    },
+    {
+        "English Question Number":88,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"و",
+        "Question Text":"انني أكثر حساسية من معظم الناس"
+    },
+    {
+        "English Question Number":89,
+        "X":10,
+        "Y":10,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب أن اكون عسكرياً"
+    },
+    {
+        "English Question Number":91,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"أ",
+        "Question Text":"غالباً ما يبدو لي بان رأسي يؤلمني بأكمله"
+    },
+    {
+        "English Question Number":92,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ب",
+        "Question Text":"احياناً كثيرة احس وكأن كرة في حلقي"
+    },
+    {
+        "English Question Number":93,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ج",
+        "Question Text":"لم أقع في حب أحد ابداً"
+    },
+    {
+        "English Question Number":94,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ح",
+        "Question Text":"اعتقد بأنه يحاك شيئاً ضدي"
+    },
+    {
+        "English Question Number":95,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"د",
+        "Question Text":"اصلي عدة مرات في الاسبوع"
+    },
+    {
+        "English Question Number":96,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ز",
+        "Question Text":"كل شيء عندي سيان"
+    },
+    {
+        "English Question Number":97,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ه",
+        "Question Text":"حدث لي أن استمتعت بتأمل براعة غشاش لدرجة انني كنت اتمنى ان لا يضبط"
+    },
+    {
+        "English Question Number":98,
+        "X":11,
+        "Y":11,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب الطهي"
+    },
+    {
+        "English Question Number":100,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"أ",
+        "Question Text":"غالباً ما يبدو لي ان رأسي موضوع في ملزمة"
+    },
+    {
+        "English Question Number":101,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ب",
+        "Question Text":"عندي قابلية للطعام"
+    },
+    {
+        "English Question Number":102,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ج",
+        "Question Text":"اصبت بخيبات عاطفية"
+    },
+    {
+        "English Question Number":103,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ح",
+        "Question Text":"مررت بتجارب استثنائية وغريبة"
+    },
+    {
+        "English Question Number":104,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ز",
+        "Question Text":"اشعر بنفسي أنني دائماً سعيد تقريباً"
+    },
+    {
+        "English Question Number":105,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ط",
+        "Question Text":"في هذه الاونة اجد انه من الصعب عدم فقدان الامل لبلوغ الهدف"
+    },
+    {
+        "English Question Number":106,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ه",
+        "Question Text":"لم أقع في مشاكل ابداً مع العدالة"
+    },
+    {
+        "English Question Number":107,
+        "X":12,
+        "Y":12,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب عمل تنسيق الازهار،"
+    },
+    {
+        "English Question Number":109,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"أ",
+        "Question Text":"يبدو لي أحياناً ان هناك ثقل في رأسي او حك في انفي"
+    },
+    {
+        "English Question Number":110,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ب",
+        "Question Text":"اشعر بالجوع طوال الوقت تقريباً"
+    },
+    {
+        "English Question Number":111,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب امي"
+    },
+    {
+        "English Question Number":112,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ح",
+        "Question Text":"لدي أفكار غريبة و فريدة"
+    },
+    {
+        "English Question Number":113,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ز",
+        "Question Text":"أنفعل (انرفز) اذا ما اضطررت للانتظار"
+    },
+    {
+        "English Question Number":114,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ط",
+        "Question Text":"ان النزاعات القاسية التي اعانيها تأتي متعارضة معي"
+    },
+    {
+        "English Question Number":115,
+        "X":13,
+        "Y":13,
+        "Arabic Question Number":"ي",
+        "Question Text":"اشعر غالباً بأنني متعب"
+    },
+    {
+        "English Question Number":117,
+        "X":14,
+        "Y":14,
+        "Arabic Question Number":"أ",
+        "Question Text":"يبدو لي أحياناً ان اعلى رأسي حساس جداً"
+    },
+    {
+        "English Question Number":118,
+        "X":14,
+        "Y":14,
+        "Arabic Question Number":"ج",
+        "Question Text":"والدتي انسانة طيبة"
+    },
+    {
+        "English Question Number":119,
+        "X":14,
+        "Y":14,
+        "Arabic Question Number":"ح",
+        "Question Text":"احدهم يحاول أن يدس السم لي"
+    },
+    {
+        "English Question Number":120,
+        "X":14,
+        "Y":14,
+        "Arabic Question Number":"و",
+        "Question Text":"لا يصعب علي ان اطلب خدمة من أصدقاء حتى ولو ليس باستطاعتي مبادلتهم بخدمة مماثلة"
+    },
+    {
+        "English Question Number":122,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"أ",
+        "Question Text":"اعاني من غثيان واستفراغ"
+    },
+    {
+        "English Question Number":123,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"ب",
+        "Question Text":"لدي خلل متكرر في المعدة والامعاء"
+    },
+    {
+        "English Question Number":124,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب والدي"
+    },
+    {
+        "English Question Number":125,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"ح",
+        "Question Text":"احدهم حاول سلبي"
+    },
+    {
+        "English Question Number":126,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بان الله موجود"
+    },
+    {
+        "English Question Number":127,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"ط",
+        "Question Text":"مشاريعي تبدو احياناً مليئة بالمصاعب بحيث اضطر الى التخلي عنها"
+    },
+    {
+        "English Question Number":128,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"ه",
+        "Question Text":"لن اكون قلقاً اذا تعرض احد افراد عائلتي الى مشاكل مع العدالة"
+    },
+    {
+        "English Question Number":129,
+        "X":15,
+        "Y":15,
+        "Arabic Question Number":"و",
+        "Question Text":"نادراً ما استغرق في الاحلام"
+    },
+    {
+        "English Question Number":131,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم أشعر أبداً بالدوار"
+    },
+    {
+        "English Question Number":132,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"ب",
+        "Question Text":"اشعر بالحرقة في المعدة عدة مرات في الاسبوع"
+    },
+    {
+        "English Question Number":133,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"ج",
+        "Question Text":"والدي انسان طيب"
+    },
+    {
+        "English Question Number":134,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"ح",
+        "Question Text":"بعضهم يوجه ملاحظات جارحة وفظة بحقي"
+    },
+    {
+        "English Question Number":135,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بأن الشيطان موجود وبأن هناك جهنماً بعد الموت"
+    },
+    {
+        "English Question Number":136,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"ز",
+        "Question Text":"تساورني هموم دائماً امام مسألة مهمة"
+    },
+    {
+        "English Question Number":137,
+        "X":16,
+        "Y":16,
+        "Arabic Question Number":"ه",
+        "Question Text":"عندما احصل على وظيفة جديدة احب ان استعلم عن جاري (زميلي) في العمل"
+    },
+    {
+        "English Question Number":139,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم أقع ابداً في حال الغيبوبة"
+    },
+    {
+        "English Question Number":140,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"ب",
+        "Question Text":"عندي انزعاج في المعدة يتكرر خلال ايام متباعدة"
+    },
+    {
+        "English Question Number":141,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"ج",
+        "Question Text":"باستطاعتي العمل كما في الماضي"
+    },
+    {
+        "English Question Number":142,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"ح",
+        "Question Text":"هناك أشخاص يحاولون استغلال افكاري وآرائي"
+    },
+    {
+        "English Question Number":143,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بحياة اخرى"
+    },
+    {
+        "English Question Number":144,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"ه",
+        "Question Text":"لم اتعرض ابداً لمشاكل نتيجة سلوكي الجنسي"
+    },
+    {
+        "English Question Number":145,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"و",
+        "Question Text":"يستحيل ان اتحدث الى أي كان عن نفسي"
+    },
+    {
+        "English Question Number":146,
+        "X":17,
+        "Y":17,
+        "Arabic Question Number":"ي",
+        "Question Text":"اعتقد بان غاندي كان اعظم من نابوليون"
+    },
+    {
+        "English Question Number":148,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم أشعر ابداً بحالات تشنج"
+    },
+    {
+        "English Question Number":149,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ب",
+        "Question Text":"نادراً ما اعاني من الامساك"
+    },
+    {
+        "English Question Number":150,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ج",
+        "Question Text":"اني قلق بشأن المسائل المادية والمصروف المنزلي"
+    },
+    {
+        "English Question Number":151,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ح",
+        "Question Text":"اذا ما منحت الفرصة ، بإمكاني تحقيق أمور قد تكون غاية في الاهمية للعائلة التي انتمي اليها"
+    },
+    {
+        "English Question Number":152,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بمجيء المسيح مرة ثانية"
+    },
+    {
+        "English Question Number":153,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ز",
+        "Question Text":"لأحيان ، اشعر انني ملي بالحيوية دون أي سبب"
+    },
+    {
+        "English Question Number":154,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ه",
+        "Question Text":"سيان (لا فرق) عندي ان التقيت غرباء"
+    },
+    {
+        "English Question Number":155,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"و",
+        "Question Text":"بعض المواضيع تهمني الى حد، بحيث لا استطيع التكلم عنها"
+    },
+    {
+        "English Question Number":156,
+        "X":18,
+        "Y":18,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب الشِعر"
+    },
+    {
+        "English Question Number":158,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"أ",
+        "Question Text":"في بعض المراحل ، تصرفت دون ان اعرف فيما بعد ماذا فعلت حقيقة"
+    },
+    {
+        "English Question Number":159,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"ب",
+        "Question Text":"اتعرض لإسهال اكثر من مرة في الشهر"
+    },
+    {
+        "English Question Number":160,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"ح",
+        "Question Text":"انا شخصية ذو شأن"
+    },
+    {
+        "English Question Number":161,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"د",
+        "Question Text":"اؤمن بوجود العجائب، او امور غير عادية تكون في مصلحة الانسان"
+    },
+    {
+        "English Question Number":162,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"ز",
+        "Question Text":"حدث انني واجهت مشاكل ذات حلول متعددة وانني كنت متأرجح في اتخاذ القرار"
+    },
+    {
+        "English Question Number":163,
+        "X":19,
+        "Y":19,
+        "Arabic Question Number":"ي",
+        "Question Text":"لو كنت مراسلاً صحافياً لكنت ركزت اهتمامي على الزوايا المسرحية"
+    },
+    {
+        "English Question Number":165,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"أ",
+        "Question Text":"مررت بأزمات لم اتمكن خلالها من ضبط تصرفاتي وأقوالي علماً بأنني كنت واعياً لما يجري حولي"
+    },
+    {
+        "English Question Number":166,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ب",
+        "Question Text":"أتغوط (أذهب الى الحمام) بشكل طبيعي يومياً"
+    },
+    {
+        "English Question Number":167,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ج",
+        "Question Text":"بمقدوري التخلي عن أمر ارغب القيام به، لان أهلي يجدون انه ليس من الضروري ان ينفذ"
+    },
+    {
+        "English Question Number":168,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ح",
+        "Question Text":"اسمع اشياء غريبة عندما أكون وحدي"
+    },
+    {
+        "English Question Number":169,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ز",
+        "Question Text":"مرة واحدة في الاسبوع اشعر بانني متحمس للغاية"
+    },
+    {
+        "English Question Number":170,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب الاولاد أو الاطفال"
+    },
+    {
+        "English Question Number":171,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"و",
+        "Question Text":"احب أن أوضح للناس ما افكر به"
+    },
+    {
+        "English Question Number":172,
+        "X":20,
+        "Y":20,
+        "Arabic Question Number":"ي",
+        "Question Text":"لو كنت فناناً ، لأحببت رسم الاطفال ( رسم صور الاطفال)"
+    },
+    {
+        "English Question Number":174,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"أ",
+        "Question Text":"مررت بعوارض كنت خلالها لا أعرف كيف أتصرف"
+    },
+    {
+        "English Question Number":175,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"ح",
+        "Question Text":"اسمع تكراراً أصواتاً لا اتمكن من تمييز مصدرها"
+    },
+    {
+        "English Question Number":176,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"د",
+        "Question Text":"رجل الله (الإنسان المؤمن) باستطاعته شفاء المريض بوضع يديه على رأسه"
+    },
+    {
+        "English Question Number":177,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"ز",
+        "Question Text":"امر بمراحل من الحركة بحيث اصبح غير قادر على المكوث فترة طويلة على كرسي دون ان امشي"
+    },
+    {
+        "English Question Number":178,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"ط",
+        "Question Text":"اتذكر بأنني تمارضت لتدارك شيء ما"
+    },
+    {
+        "English Question Number":179,
+        "X":21,
+        "Y":21,
+        "Arabic Question Number":"ه",
+        "Question Text":"لا انعم ابداًبالسعادة القصوى الا عندما اكون وحيداً"
+    },
+    {
+        "English Question Number":181,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"أ",
+        "Question Text":"امر احياناً بعوارض ضحك أو بكاء لا اتمكن من ضبطها"
+    },
+    {
+        "English Question Number":182,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ب",
+        "Question Text":"لا اعاني من أي صعوبة لدى البدء بالتبول او لدى ضبط البول"
+    },
+    {
+        "English Question Number":183,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ج",
+        "Question Text":"غيرت رأي عدة مرات حول حياتي المهنية"
+    },
+    {
+        "English Question Number":184,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ح",
+        "Question Text":"عندما اتواجد في المجتمع اغتاظ لأنني اسمع اشياء غريبة"
+    },
+    {
+        "English Question Number":185,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"د",
+        "Question Text":"كل شيء يجري كما تنبأ به الانبياء في الكتب السماوية"
+    },
+    {
+        "English Question Number":186,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ز",
+        "Question Text":"احياناً اكون هائجاً الى حد يصعب فيه علي النوم"
+    },
+    {
+        "English Question Number":187,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ط",
+        "Question Text":"حدث ان التقيت اشخاصاً كانوا يعتبرون خبراء ، وانهم في الواقع لم يكونوا يعرفوا اكثر مني"
+    },
+    {
+        "English Question Number":188,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"ه",
+        "Question Text":"اكره ان يكون حولي اشخاص"
+    },
+    {
+        "English Question Number":189,
+        "X":22,
+        "Y":22,
+        "Arabic Question Number":"و",
+        "Question Text":"اظهر تعاطفاً مع اولئك الذين لديهم ميل لأن يتركوا جانباً همومهم وشكواهم"
+    },
+    {
+        "English Question Number":191,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"أ",
+        "Question Text":"يبدو لي أنني تقريباً، بنفس المقدرة والذكاء لغالبية الاشخاص الذين يحيطون بي"
+    },
+    {
+        "English Question Number":192,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"د",
+        "Question Text":"روحي تتفلت أحياناً من جسدي"
+    },
+    {
+        "English Question Number":193,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"ز",
+        "Question Text":"لأحيان أنا ملئ بالحيوية"
+    },
+    {
+        "English Question Number":194,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"ط",
+        "Question Text":"اعاني من عدم قدرتي على التنفيذ"
+    },
+    {
+        "English Question Number":195,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"ه",
+        "Question Text":"لا أتوجه بالكلام الى غرباء قبل أن يتكلموا معي"
+    },
+    {
+        "English Question Number":196,
+        "X":23,
+        "Y":23,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب أن اكون صحافياً"
+    },
+    {
+        "English Question Number":198,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"أ",
+        "Question Text":"رأي الان هو افضل من أي وقت مضى"
+    },
+    {
+        "English Question Number":199,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"ج",
+        "Question Text":"تلقيت مراراً اوامر من أحد الاشخاص الذي لم يكن على اطلاع مثلي"
+    },
+    {
+        "English Question Number":200,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"ح",
+        "Question Text":"اميز اشياء وحيوانات حولي لا يستطيع غيري رؤيتهم"
+    },
+    {
+        "English Question Number":201,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"د",
+        "Question Text":"انا وسيط خاص لله"
+    },
+    {
+        "English Question Number":202,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"ز",
+        "Question Text":"يحدث لي أحياناً أن اكون هائجاً الى حد يبدو لي النوم في هكذا مراحل غير ضروري"
+    },
+    {
+        "English Question Number":203,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"ه",
+        "Question Text":"افضل تجاهل اصدقاء الدراسة او اشخاص اعرفهم، وقد مضى وقت طويل لم اراهم فيه، ما لم يتوجهوا الي هم أولاً بالحديث"
+    },
+    {
+        "English Question Number":204,
+        "X":24,
+        "Y":24,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب المسرح"
+    },
+    {
+        "English Question Number":206,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"أ",
+        "Question Text":"هناك امر يسير بشكل غير جيد في نفسي"
+    },
+    {
+        "English Question Number":207,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ب",
+        "Question Text":"لم يحدث لي اي طفح جلدي مسبب للازعاج"
+    },
+    {
+        "English Question Number":208,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ج",
+        "Question Text":"تعرضت لحالات من الفشل لأنني لم اتمكن من اتخاذ قرار بالسرعة الكافية"
+    },
+    {
+        "English Question Number":209,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ح",
+        "Question Text":"أحياناً أحس بأن هناك قوة تسيرني، ولا أقدر على مقاومتها"
+    },
+    {
+        "English Question Number":210,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"د",
+        "Question Text":"مررت بتجارب دينية غير مألوفة"
+    },
+    {
+        "English Question Number":211,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ز",
+        "Question Text":"دون سبب وجيه، او عندما تسير الامور بشكل سيء، اشعر احياناً أنني في غاية السعادة"
+    },
+    {
+        "English Question Number":212,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ط",
+        "Question Text":"حدث ان صرفت النظر عدة مرات عن مسألة معينة لأنني لم اعرف كيف أتصرف"
+    },
+    {
+        "English Question Number":213,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"و",
+        "Question Text":"اتأثر كثيراً بواقع هيمنة احد علي الى حد القبول به بأنه متفوق بالنسبة لي"
+    },
+    {
+        "English Question Number":214,
+        "X":25,
+        "Y":25,
+        "Arabic Question Number":"ي",
+        "Question Text":"اكتب سيرتي الذاتية"
+    },
+    {
+        "English Question Number":216,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"أ",
+        "Question Text":"لا استطيع تركيز انتباهي"
+    },
+    {
+        "English Question Number":217,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"ح",
+        "Question Text":"اعرف من هو المسؤول عن غالبية مشاكلي"
+    },
+    {
+        "English Question Number":218,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"د",
+        "Question Text":"لقد استوحيت نمط حياتي بتأثري ببرنامج يستند الى الواقع، ومنذ ذلك الحين انا اتابعه باهتمام"
+    },
+    {
+        "English Question Number":219,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"ز",
+        "Question Text":"لأحيان يبدو لي ان عقلي يعمل أفضل من المعتاد"
+    },
+    {
+        "English Question Number":220,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"ط",
+        "Question Text":"انني انهزم بسهولة في نقاش ما"
+    },
+    {
+        "English Question Number":221,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"ه",
+        "Question Text":"غالباً جداً ما يحدث لي، أنني لا اشارك في حديث جماعة اكون جالساً معها"
+    },
+    {
+        "English Question Number":222,
+        "X":26,
+        "Y":26,
+        "Arabic Question Number":"ي",
+        "Question Text":"لقد احببت قصة \"بلانش نيج\" بيضاء الثلج"
+    },
+    {
+        "English Question Number":224,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"أ",
+        "Question Text":"يبدو لي ان ذاكرتي جيدة"
+    },
+    {
+        "English Question Number":225,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"ب",
+        "Question Text":"استيقظ دائماً تقريباً بحالة حسنة"
+    },
+    {
+        "English Question Number":226,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"ج",
+        "Question Text":"ينفذ صبري اذا قاطعني أحدهم اثناء قيامي بأمر هام"
+    },
+    {
+        "English Question Number":227,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"ح",
+        "Question Text":"احب زيارة أماكن لم اكن اعرفها مطلقاً"
+    },
+    {
+        "English Question Number":228,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"ط",
+        "Question Text":"يصعب علي تركيز ذهني على عمل أو مهنة"
+    },
+    {
+        "English Question Number":229,
+        "X":27,
+        "Y":27,
+        "Arabic Question Number":"ه",
+        "Question Text":"في الاجتماعات ، افضل الجلوس وحيداً أو مع شخص واحد فقط على أن اختلط في المجموعة"
+    },
+    {
+        "English Question Number":231,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ب",
+        "Question Text":"نومي مشوش ومضطرب"
+    },
+    {
+        "English Question Number":232,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ج",
+        "Question Text":"لا احب التوقف ولو لفترة قصيرة ، خلال عمل اكون قد بدأته"
+    },
+    {
+        "English Question Number":233,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ح",
+        "Question Text":"يراودني القلق والاضطراب عندما اضطر الى الابتعاد لبعض الوقت عن منزلي"
+    },
+    {
+        "English Question Number":234,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ط",
+        "Question Text":"لو منحوني الفرصة، لاصبحت دون شك قائداً جيداً للجماعة"
+    },
+    {
+        "English Question Number":235,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب كثيراً الذهاب الى الحفلات الراقصة"
+    },
+    {
+        "English Question Number":236,
+        "X":28,
+        "Y":28,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب الى حد كبير امتطاء الحصان"
+    },
+    {
+        "English Question Number":238,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ب",
+        "Question Text":"هواجسي وأفكاري حالت احياناً دون نومي"
+    },
+    {
+        "English Question Number":239,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ج",
+        "Question Text":"على العموم انتظر النجاح فيما اقوم به"
+    },
+    {
+        "English Question Number":240,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ح",
+        "Question Text":"علي ان اعترف  بأنني قلقت كثيراً  لسبب من الاسباب  ذات مرة،  في الواقع ان الامر لم يكن  يستأهل ذلك"
+    },
+    {
+        "English Question Number":241,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"د",
+        "Question Text":"خلال فترة صباي طردت مرة من المدرسة بسبب سوء السلوك"
+    },
+    {
+        "English Question Number":242,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ز",
+        "Question Text":"يتملكني الغضب بسهولة ومن ثم انساه على الفور"
+    },
+    {
+        "English Question Number":243,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ط",
+        "Question Text":"تكون بالنسبة لي حالة من الفشل، عندما يبلغني نجاح احد اعرفه جيداً"
+    },
+    {
+        "English Question Number":244,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب كثيراً الاستقبالات، فقط لأنني احب التواجد بين المجتمع"
+    },
+    {
+        "English Question Number":245,
+        "X":29,
+        "Y":29,
+        "Arabic Question Number":"ي",
+        "Question Text":"لو كنت مراسلاً صحافياً لاحببت كثيراً كتابة مقالات رياضية"
+    },
+    {
+        "English Question Number":247,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"أ",
+        "Question Text":"اشم في بعض الاحيان روائح استئنائية"
+    },
+    {
+        "English Question Number":248,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"ب",
+        "Question Text":"غالباً ما انام دون ان اضطرب من جراء افكار وتخيلات"
+    },
+    {
+        "English Question Number":249,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"ح",
+        "Question Text":"يحدث لي تقريباً كل يوم شيء يعكر مزاجي"
+    },
+    {
+        "English Question Number":250,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"د",
+        "Question Text":"في المدرسة ارسلت عدة مرات الى المدير لسوء السلوك"
+    },
+    {
+        "English Question Number":251,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"ز",
+        "Question Text":"افكاري تتوارد احياناً بسرعة وبصورة لا استطيع معها التعبير عنها"
+    },
+    {
+        "English Question Number":252,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"ط",
+        "Question Text":"طريقة تصرفي مفهومة بسهولة من قبل الشخص الآخر"
+    },
+    {
+        "English Question Number":253,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب هياج الجموع الغفيرة"
+    },
+    {
+        "English Question Number":254,
+        "X":30,
+        "Y":30,
+        "Arabic Question Number":"و",
+        "Question Text":"غالباً ما وجدت اشخاصاً يغارون من افكاري الجيدة ، فقط لانهم لم يفكروا بها اولاً"
+    },
+    {
+        "English Question Number":256,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"أ",
+        "Question Text":"نظري لا يضعف"
+    },
+    {
+        "English Question Number":257,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ب",
+        "Question Text":"الضجيج يوقظني بسهولة"
+    },
+    {
+        "English Question Number":258,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ج",
+        "Question Text":"حدث أن عارضت أناساً كانوا يحاولون القيام بأمر ما، ليس لأن هذا الامر لديه مردود كبير عليهم بل لأنه أمر مبدأي"
+    },
+    {
+        "English Question Number":259,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اظهر الا قليلاً من المخاوف بالمقارنة مع اصدقائي"
+    },
+    {
+        "English Question Number":260,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ز",
+        "Question Text":"لدي انطباع بأنني سأحطم احياناً كل شيء"
+    },
+    {
+        "English Question Number":261,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ط",
+        "Question Text":"بعض المرات، يسود عندي انطباع انني لن اتمكن من التغلب على المشاكل المتراكمة"
+    },
+    {
+        "English Question Number":262,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ه",
+        "Question Text":"عندما ابدأ بالاحساس بالضجر، احب خلق اجواء ترفيهية"
+    },
+    {
+        "English Question Number":263,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"و",
+        "Question Text":"انني احتد بسهولة"
+    },
+    {
+        "English Question Number":264,
+        "X":31,
+        "Y":31,
+        "Arabic Question Number":"ي",
+        "Question Text":"لم احب في اي لحظة في حياتي اللعب في الدمية"
+    },
+    {
+        "English Question Number":266,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"أ",
+        "Question Text":"باستطاعتي القراءة مدة طويلة دون اتعاب نظري"
+    },
+    {
+        "English Question Number":267,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ب",
+        "Question Text":"باستطاعتي النوم خلال النهار ولكن ليس خلال الليل"
+    },
+    {
+        "English Question Number":268,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ح",
+        "Question Text":"ارتعبت من اشياء أو اشخاص على الرغم من انني كنت اعرف انهم لا يستطيعون ايذائي"
+    },
+    {
+        "English Question Number":269,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"د",
+        "Question Text":"في مراحل معينة من طفولتي ، حدث لي ان اقترفت سرقات صغيرة"
+    },
+    {
+        "English Question Number":270,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ز",
+        "Question Text":"ابدي احياناً الرغبة في ان أتشاجر مع أحد"
+    },
+    {
+        "English Question Number":271,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ط",
+        "Question Text":"بعض الاحيان انظر الى الاشياء من ناحيتها السيئة"
+    },
+    {
+        "English Question Number":272,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ه",
+        "Question Text":"يبدو أن همومي تتبدد عندما اكون برفقة مجموعة سعيدة  من الاصدقاء"
+    },
+    {
+        "English Question Number":273,
+        "X":32,
+        "Y":32,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب ان اكون مغنياً أو ممثلاً"
+    },
+    {
+        "English Question Number":275,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ب",
+        "Question Text":"نادراً ما تراودني الاحلام"
+    },
+    {
+        "English Question Number":276,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ج",
+        "Question Text":"ينبغي خوض الكثير من النقاش لاقناع غالبية الناس بالحقيقة"
+    },
+    {
+        "English Question Number":277,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اخاف من نقل كميات من المال"
+    },
+    {
+        "English Question Number":278,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد انني عوقبت مراراً دون سبب"
+    },
+    {
+        "English Question Number":279,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ز",
+        "Question Text":"لدي حب التنقل، ولا اكون سعيداً الا عندما اسافر"
+    },
+    {
+        "English Question Number":280,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ط",
+        "Question Text":"انني شخص عصبي للغاية"
+    },
+    {
+        "English Question Number":281,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب ان اكون شريكاً في مجموعة تتحدى بعضها"
+    },
+    {
+        "English Question Number":282,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"و",
+        "Question Text":"غالباً لا ادرك لماذا كنت فظاً او متذمراً"
+    },
+    {
+        "English Question Number":283,
+        "X":33,
+        "Y":33,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب الاجتماعات والمجتمع"
+    },
+    {
+        "English Question Number":285,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"د",
+        "Question Text":"عندما كنت صبياً ، كنت تابعاً لزمرة كانت تحاول ان تتكاثف مع او ضد المجتمع"
+    },
+    {
+        "English Question Number":286,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"ز",
+        "Question Text":"احياناً اسمع بقوة الى حد الانزعاج"
+    },
+    {
+        "English Question Number":287,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"ط",
+        "Question Text":"انني اعمل في حال من التوتر الشديد"
+    },
+    {
+        "English Question Number":288,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب الذهاب الى استقبالات واجتماعات حيث يسود الترفيه الصاخب"
+    },
+    {
+        "English Question Number":289,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"و",
+        "Question Text":"التحريض أو الغضب أو الانتقاد أو السخرية يحرجانني بقوة"
+    },
+    {
+        "English Question Number":290,
+        "X":34,
+        "Y":34,
+        "Arabic Question Number":"ي",
+        "Question Text":"اعتقد بأنني سأحب كثيراً عمل امين مكتبة"
+    },
+    {
+        "English Question Number":292,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"أ",
+        "Question Text":"اسمع بشكل ظاهر، بصورة جيدة كمعظم الناس"
+    },
+    {
+        "English Question Number":293,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"ب",
+        "Question Text":"اعيش كوابيس كل ليلة تقريباً"
+    },
+    {
+        "English Question Number":294,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"ج",
+        "Question Text":"كنت احب المدرسة"
+    },
+    {
+        "English Question Number":295,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"د",
+        "Question Text":"لم ارتكب ابداً اي مخاطر من أجل المتعة"
+    },
+    {
+        "English Question Number":296,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"ز",
+        "Question Text":"انسى ما يقوله لي الآخرون"
+    },
+    {
+        "English Question Number":297,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"ط",
+        "Question Text":"الحياة تمثل بالنسبة لي جهداً مستمراً"
+    },
+    {
+        "English Question Number":298,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"ه",
+        "Question Text":"احب ان أكون عضواً في عدد من النوادي أو التجمعات"
+    },
+    {
+        "English Question Number":299,
+        "X":35,
+        "Y":35,
+        "Arabic Question Number":"و",
+        "Question Text":"حتى عندما اكون مع بعض الناس ، اشعر بأنني وحيد في اكثر الاحيان"
+    },
+    {
+        "English Question Number":301,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"أ",
+        "Question Text":"نادراً ما احس بالطنين أو الرنين في الاذنين"
+    },
+    {
+        "English Question Number":302,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ب",
+        "Question Text":"احلم غالباً باشياء ارغب الاحتفاظ بها لنفسي"
+    },
+    {
+        "English Question Number":303,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ج",
+        "Question Text":"كنت اتعلم بصعوبة في الصف"
+    },
+    {
+        "English Question Number":304,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اخاف من النار"
+    },
+    {
+        "English Question Number":305,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"د",
+        "Question Text":"اقدر اكثر بكثير سباقاً أو لعباً عندما اقوم بالمراهنة"
+    },
+    {
+        "English Question Number":306,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ز",
+        "Question Text":"عادة علي ان اقف وافكر قبل الانتقال الى العمل، حتى ولو كانت النشاطات بسيطة"
+    },
+    {
+        "English Question Number":307,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ط",
+        "Question Text":"افكر احياناً انني لا انفع لشيء"
+    },
+    {
+        "English Question Number":308,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"ه",
+        "Question Text":"انني عنصر اجتماعي الى حد كبير"
+    },
+    {
+        "English Question Number":309,
+        "X":36,
+        "Y":36,
+        "Arabic Question Number":"و",
+        "Question Text":"ارغب ان اكون سعيداً بالقدر الذي يبدو فيه سواي سعيد"
+    },
+    {
+        "English Question Number":311,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"أ",
+        "Question Text":"طريقتي في التكلم هي نفسها دائماً: لا سريعة لا بطيئة لا خشنة لا مترددة"
+    },
+    {
+        "English Question Number":312,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"ب",
+        "Question Text":"ينبغي ان نحاول فهم احلامنا واخذها كأداة توجيه لنا، او كأداة انذار"
+    },
+    {
+        "English Question Number":313,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"ح",
+        "Question Text":"بعض الحيوانات تثير اعصابي"
+    },
+    {
+        "English Question Number":314,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"د",
+        "Question Text":"احب ان العب على مبالغ قليلة"
+    },
+    {
+        "English Question Number":315,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"ز",
+        "Question Text":"اشدد احياناً كثيرة على امر ما ، فيما الآخرون يفقدون حوله الصبر"
+    },
+    {
+        "English Question Number":316,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"ط",
+        "Question Text":"لاحيان اشعر بأنني لا انفع"
+    },
+    {
+        "English Question Number":317,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"ه",
+        "Question Text":"يبدو ان لا احد يفهمني"
+    },
+    {
+        "English Question Number":318,
+        "X":37,
+        "Y":37,
+        "Arabic Question Number":"و",
+        "Question Text":"عادة انا هادئ الطباع ولا اثور بسهولة"
+    },
+    {
+        "English Question Number":320,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"أ",
+        "Question Text":"احياناً صوتي يختفي او يتبدل، حتى ولو لم اكن معرضاً للرشح"
+    },
+    {
+        "English Question Number":321,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"ب",
+        "Question Text":"يقولون لي انني كنت استيقظ وامشي خلال نومي"
+    },
+    {
+        "English Question Number":322,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اخاف كثيراً من الحية"
+    },
+    {
+        "English Question Number":323,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"د",
+        "Question Text":"سلوكي مرتبط الى حد بعيد بعادات محيطي"
+    },
+    {
+        "English Question Number":324,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"ز",
+        "Question Text":"عندما اغادر المنزل لا اهتم بموضوع اقفال الباب او الشبابيك"
+    },
+    {
+        "English Question Number":325,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"ط",
+        "Question Text":"افكر احياناً مع ذاتي قائلاً : اتمنى لو أظل ولداً"
+    },
+    {
+        "English Question Number":326,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"ه",
+        "Question Text":"يبدو لي أنني اربي الاصدقاء بالسرعة التي يربي فيها اي انسان آخر اصدقائه"
+    },
+    {
+        "English Question Number":327,
+        "X":38,
+        "Y":38,
+        "Arabic Question Number":"و",
+        "Question Text":"عادة لدي انطباع بان الحياة تستوجب أن نعيشها"
+    },
+    {
+        "English Question Number":329,
+        "X":39,
+        "Y":39,
+        "Arabic Question Number":"د",
+        "Question Text":"اجد انه من الضروري في غالب الاحيان التدخل للدفاع عن وجهة نظري"
+    },
+    {
+        "English Question Number":330,
+        "X":39,
+        "Y":39,
+        "Arabic Question Number":"ط",
+        "Question Text":"ينقصني بالتأكيد الثقة بالنفس"
+    },
+    {
+        "English Question Number":331,
+        "X":39,
+        "Y":39,
+        "Arabic Question Number":"ه",
+        "Question Text":"انني محبوب من جانب غالبية الاشخاص الذين يعرفونني"
+    },
+    {
+        "English Question Number":332,
+        "X":39,
+        "Y":39,
+        "Arabic Question Number":"و",
+        "Question Text":"حياتي اليومية مليئة بأشياء تهمني"
+    },
+    {
+        "English Question Number":333,
+        "X":39,
+        "Y":39,
+        "Arabic Question Number":"ي",
+        "Question Text":"ان الرجل الذي كنت على اكبر علاقة معه في طفولتي كان قاسياً جداً معي ( ابي، زوج امي ،جدي، عمي، خالي...)"
+    },
+    {
+        "English Question Number":335,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"أ",
+        "Question Text":"اشعر غالباً بحال من الضعف العام"
+    },
+    {
+        "English Question Number":336,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"ب",
+        "Question Text":"اشرب كمية من المياه يومياً تفوق الليترين"
+    },
+    {
+        "English Question Number":337,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"ز",
+        "Question Text":"اثناء المشي، احرص الا اضع رجلي على تفسخات الطريق"
+    },
+    {
+        "English Question Number":338,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"ط",
+        "Question Text":"لدي ثقة كاملة بالنفس"
+    },
+    {
+        "English Question Number":339,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"ه",
+        "Question Text":"اتمتع بكامل الجاذبية التي ارغبها"
+    },
+    {
+        "English Question Number":340,
+        "X":40,
+        "Y":40,
+        "Arabic Question Number":"ي",
+        "Question Text":"المرأة  : لم اندم ابداً كوني فتاة      الرجل : تمنيت احياناً ان اكون امرأة"
+    },
+    {
+        "English Question Number":342,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم اتعرض ابداً للشلل، ولم اشعر ابداً باي ضعف غير عادي في اي من عضلاتي"
+    },
+    {
+        "English Question Number":343,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب دراسة وقراءة مواضيع تتعلق بعملي"
+    },
+    {
+        "English Question Number":344,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"د",
+        "Question Text":"لدي آراء سياسية راسخة وواضحة"
+    },
+    {
+        "English Question Number":345,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"ز",
+        "Question Text":"درجت العادة معي ان اعدد اشياء (لمبات، اشارات كهربائية، جمع ارقام السيارة...)"
+    },
+    {
+        "English Question Number":346,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"ط",
+        "Question Text":"اتراجع امام المصاعب والازمات"
+    },
+    {
+        "English Question Number":347,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"ه",
+        "Question Text":"اقدر كثيراً الالعاب وحالات الاستجمام على انواعها"
+    },
+    {
+        "English Question Number":348,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"و",
+        "Question Text":"اميل الى التخلي بسرعة عن الاشياء او الامور عندما تسير الاحداث بشكل سيء"
+    },
+    {
+        "English Question Number":349,
+        "X":41,
+        "Y":41,
+        "Arabic Question Number":"ي",
+        "Question Text":"يحدث معي احياناً أن أتذكر أو افكر بأشياء بشعة جداً كي اتمكن من التكلم عنها"
+    },
+    {
+        "English Question Number":351,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"أ",
+        "Question Text":"لا اجد اية صعوبة في الحفاظ على توازني اثناء المشي"
+    },
+    {
+        "English Question Number":352,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ب",
+        "Question Text":"اسرفت في شرب الكحول"
+    },
+    {
+        "English Question Number":353,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب قراءة زاوية الاجرام في الصحف"
+    },
+    {
+        "English Question Number":354,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ح",
+        "Question Text":"الاوساخ تثير اشمئزازي"
+    },
+    {
+        "English Question Number":355,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"د",
+        "Question Text":"اؤمن بفعالية القانون"
+    },
+    {
+        "English Question Number":356,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ز",
+        "Question Text":"تتملكني فكرة لا اهمية لها لبعض الوقت"
+    },
+    {
+        "English Question Number":357,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ه",
+        "Question Text":"ارفض المشاركة في عدد من الالعاب لانني لست قوياً في مجالها"
+    },
+    {
+        "English Question Number":358,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"و",
+        "Question Text":"يصعب علي الشروع في العمل"
+    },
+    {
+        "English Question Number":359,
+        "X":42,
+        "Y":42,
+        "Arabic Question Number":"ي",
+        "Question Text":"لا اقول دائماً الحقيقة، واحوّر بعض المرات ما اقوله"
+    },
+    {
+        "English Question Number":361,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"أ",
+        "Question Text":"يداي لم تصبحا عديمتا الفائدة او غير حذقتين"
+    },
+    {
+        "English Question Number":362,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"ج",
+        "Question Text":"اعجب بالروايات البوليسية السرية او بالقصص الصعبة التي ينبغي على الشخص ان يفكر بمضمونها"
+    },
+    {
+        "English Question Number":363,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اشغل بالي فيما يتعلق بالامراض التي يمكن ان التقطها"
+    },
+    {
+        "English Question Number":364,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"د",
+        "Question Text":"ان الامور تسير بشكل افضل اذا تم الغاء جميع القوانين تقريباً"
+    },
+    {
+        "English Question Number":365,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"ز",
+        "Question Text":"كلمات قبيحة ومخيفة تراود ذهني احياناً وأظل أفكر فيها"
+    },
+    {
+        "English Question Number":366,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"ه",
+        "Question Text":"عندما اتواجد بين مجموعة ، استصعب ايجاد الاشياء التي يجب التحدث بها"
+    },
+    {
+        "English Question Number":367,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"و",
+        "Question Text":"احياناً يبدو ان عقلي يعمل بصورة ابطأ من المعتاد"
+    },
+    {
+        "English Question Number":368,
+        "X":43,
+        "Y":43,
+        "Arabic Question Number":"ي",
+        "Question Text":"يثور غضبي احياناً"
+    },
+    {
+        "English Question Number":370,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"أ",
+        "Question Text":"لم الاحظ ابداً ان عضلاتي ترتعش أو ترتجف بطريقة غير طبيعية ومزعجة"
+    },
+    {
+        "English Question Number":371,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"د",
+        "Question Text":"انني دائماً اشمئز من العدالة عندما يخلي سبيل مجرم بفضل حجج محام ذكي"
+    },
+    {
+        "English Question Number":372,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"ز",
+        "Question Text":"احياناً كان يستحيل علي ان امتنع عن سرقة او اختلاس شيء ما"
+    },
+    {
+        "English Question Number":373,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"ط",
+        "Question Text":"لو كنت فناناً لكنت احببت رسم الورود"
+    },
+    {
+        "English Question Number":374,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"ه",
+        "Question Text":"يصعب علي البدء بحديث عندما التقي باشخاص جدد"
+    },
+    {
+        "English Question Number":375,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"و",
+        "Question Text":"مررت بمراحل (ايام، اسابيع) لم اتمكن خلالها من القيام بأي عمل جيد، لانني لم اكن راغباً"
+    },
+    {
+        "English Question Number":376,
+        "X":44,
+        "Y":44,
+        "Arabic Question Number":"ي",
+        "Question Text":"احياناً عندما اشعر انني لست على ما يرام اكون سيء المزاج"
+    },
+    {
+        "English Question Number":378,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"أ",
+        "Question Text":"احياناً اشعر بان يداي ترتجفان عندما احاول القيام بشيء ما"
+    },
+    {
+        "English Question Number":379,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب قراءة الروايات الغرامية"
+    },
+    {
+        "English Question Number":380,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"د",
+        "Question Text":"يتطلب الناس عامة احترام حقوقهم اكثر مما ينوون منح هذا الاحترام للآخرين"
+    },
+    {
+        "English Question Number":381,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"ز",
+        "Question Text":"احياناً كثيرة كنت اعبر الطريق لتحاشي لقاء احدهم"
+    },
+    {
+        "English Question Number":382,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"ط",
+        "Question Text":"احب ان ارى الاخرون يلعبون"
+    },
+    {
+        "English Question Number":383,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"و",
+        "Question Text":"احياناً كثيرة استسلم لافكار حزينة"
+    },
+    {
+        "English Question Number":384,
+        "X":45,
+        "Y":45,
+        "Arabic Question Number":"ي",
+        "Question Text":"لو كان باستطاعتي دخول صالة السينما دون ان ادفع ثمن البطاقة وحيث اكون متأكداً من ان احداً لن يراني ، لفعلت ذلك بالطبع"
+    },
+    {
+        "English Question Number":386,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"أ",
+        "Question Text":"اشعر بقليل من الاوجاع"
+    },
+    {
+        "English Question Number":387,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"ب",
+        "Question Text":"في بيتنا، حظينا دائماً بكل ما هو ضروري( ما يكفي من الماكل والملبس)"
+    },
+    {
+        "English Question Number":388,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"ج",
+        "Question Text":"القسم الذي يهمني في الصحف هو صفحة التسلية"
+    },
+    {
+        "English Question Number":389,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"د",
+        "Question Text":"غالبية الناس في باطنهم لا يحبون ازعاج انفسهم لمساعدة الغير"
+    },
+    {
+        "English Question Number":390,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"ه",
+        "Question Text":"سيان عندي اذا كنت منكداً (تعيس)"
+    },
+    {
+        "English Question Number":391,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"و",
+        "Question Text":"غالباً ما اجد نفسي مأخوذاً بالهموم"
+    },
+    {
+        "English Question Number":392,
+        "X":46,
+        "Y":46,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب التعرف على شخصيات لانهم يعطونني انطباع بأني شخصية مهمة"
+    },
+    {
+        "English Question Number":394,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"أ",
+        "Question Text":"في بعض نواحي جسمي اشعر باحساسات الحريق أوالوخز أو التنميل أو التخدير"
+    },
+    {
+        "English Question Number":395,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ب",
+        "Question Text":"عائلتي لا تحب العمل الذي اخترته أو المهنة التي اقترح اختيارها"
+    },
+    {
+        "English Question Number":396,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ج",
+        "Question Text":"حياتي الجنسية مشبعة"
+    },
+    {
+        "English Question Number":397,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ح",
+        "Question Text":"اضطرب عندما انظر من مكان مرتفع الى الاسفل"
+    },
+    {
+        "English Question Number":398,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"د",
+        "Question Text":"غالبية الناس يصادقون اشخاصاً لان بإمكان هؤلاء الاشخاص ان يعودواعليهم بالنفع لاحقاً"
+    },
+    {
+        "English Question Number":399,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ز",
+        "Question Text":"لاحيان ابدي رغبة شديدة لان افعل شيئاً مزعجاً"
+    },
+    {
+        "English Question Number":400,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ه",
+        "Question Text":"احاول قدر المستطاع تذكر الاحداث الحلوة لاعادة روايتها"
+    },
+    {
+        "English Question Number":401,
+        "X":47,
+        "Y":47,
+        "Arabic Question Number":"ي",
+        "Question Text":"لا احب جميع الأشخاص الذين اعرفهم"
+    },
+    {
+        "English Question Number":403,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"أ",
+        "Question Text":"اشعر بالتخدير في مكان واحد أو في عدة اماكن من جلدي"
+    },
+    {
+        "English Question Number":404,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"ب",
+        "Question Text":"انا مقتنع أن في بيتي الزوجي حياة عائلية ممتعة كسائر حياة الناس الذين اعرفهم"
+    },
+    {
+        "English Question Number":405,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"ج",
+        "Question Text":"احب المغازلة"
+    },
+    {
+        "English Question Number":406,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد ان عدداً كبيراً من الاشخاص يبالغون في التعبير عن بؤسهم، فقط من اجل اكتساب عطف ومساعدة الاخرين لهم"
+    },
+    {
+        "English Question Number":407,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"ز",
+        "Question Text":"ارى نفسي احياناً مدفوعاً لان اشتم احداً"
+    },
+    {
+        "English Question Number":408,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"ه",
+        "Question Text":"لا انشغل ابداً بمظهري الخارجي"
+    },
+    {
+        "English Question Number":409,
+        "X":48,
+        "Y":48,
+        "Arabic Question Number":"ي",
+        "Question Text":"يحدث ان اثرثر قليلاً"
+    },
+    {
+        "English Question Number":411,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"أ",
+        "Question Text":"جلدي حساس الملمس بشكل غير طبيعي"
+    },
+    {
+        "English Question Number":412,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ب",
+        "Question Text":"لدى اجراء مقارنة مع الحياة الزوجية التي تعيشها بعض العائلات ادركت ان هناك قليلاً من العاطفة والحنان في عائلتي"
+    },
+    {
+        "English Question Number":413,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ج",
+        "Question Text":"انا منجذب بأشخاص من الجنس الاخر"
+    },
+    {
+        "English Question Number":414,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اشعر بالراحة داخل المنزل  الزوجي"
+    },
+    {
+        "English Question Number":415,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"د",
+        "Question Text":"لا الوم شخصاً يستغل شخصاً آخرقابل للاستغلال"
+    },
+    {
+        "English Question Number":416,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ز",
+        "Question Text":"عندما يخطئ احداً او يقول تفاهات أحاول توبيخه"
+    },
+    {
+        "English Question Number":417,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ط",
+        "Question Text":"اعتقد بأنني قد احب كثيراً نمط عمل شخص يكافح النيران"
+    },
+    {
+        "English Question Number":418,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ه",
+        "Question Text":"سيان عندي اذا لم يكن لدي أفضل مظهر"
+    },
+    {
+        "English Question Number":419,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"و",
+        "Question Text":"انني حزين احياناً كثيرة"
+    },
+    {
+        "English Question Number":420,
+        "X":49,
+        "Y":49,
+        "Arabic Question Number":"ي",
+        "Question Text":"يحدث ان اصوت في الانتخابات لاشخاص لا اعرفهم الا قليلاً"
+    },
+    {
+        "English Question Number":422,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"أ",
+        "Question Text":"نادراً ما اشعر بالالام في الرقبة"
+    },
+    {
+        "English Question Number":423,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ب",
+        "Question Text":"اهلي يعاملونني كولد اكثر منه كبالغ"
+    },
+    {
+        "English Question Number":424,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ج",
+        "Question Text":"انا متعاطف جداً مع اشخاص من نفس الجنس خاصةً عندما يكون هناك مشاكل"
+    },
+    {
+        "English Question Number":425,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ح",
+        "Question Text":"أفضل عدم التواجد وحيداً في مصعد كهربائي"
+    },
+    {
+        "English Question Number":426,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"د",
+        "Question Text":"ان الخوف من الشرطة خاصة هو الذي يجعل غالبية الناس مستقيمين"
+    },
+    {
+        "English Question Number":427,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ز",
+        "Question Text":"هناك اشخاص يبدون متسلطين الى حد ترغب القيام بعكس ما يقولون حتى ولو ادركت بأنهم على حق"
+    },
+    {
+        "English Question Number":428,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ط",
+        "Question Text":"احب العلوم"
+    },
+    {
+        "English Question Number":429,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ه",
+        "Question Text":"اقوم بأمور كثيرة اندم عليها"
+    },
+    {
+        "English Question Number":430,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"و",
+        "Question Text":"اغلب الاحيان، اشعر بأنني قمت بعمل سيء"
+    },
+    {
+        "English Question Number":431,
+        "X":50,
+        "Y":50,
+        "Arabic Question Number":"ي",
+        "Question Text":"احياناً يحدث لي ان اضحك لمزحة بذيئة"
+    },
+    {
+        "English Question Number":433,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"أ",
+        "Question Text":"لا يحمر وجهي أكثر من سواي"
+    },
+    {
+        "English Question Number":434,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ب",
+        "Question Text":"أنا مستقل وأتمتع بحرية مطلقة، ومتحرر من كل التقاليد"
+    },
+    {
+        "English Question Number":435,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ج",
+        "Question Text":"انا معذب من جراء مشاكل جنسية"
+    },
+    {
+        "English Question Number":436,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ح",
+        "Question Text":"اتحاشى التواجد بين الجموع قدر الامكان"
+    },
+    {
+        "English Question Number":437,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"د",
+        "Question Text":"انني ضد مبدا التصدق (اعطاء المال للمتسولين)"
+    },
+    {
+        "English Question Number":438,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ز",
+        "Question Text":"لدي انطباع غالباً بان الاشياء ليست حقيقية"
+    },
+    {
+        "English Question Number":439,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ط",
+        "Question Text":"احب صيد الطيور"
+    },
+    {
+        "English Question Number":440,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ه",
+        "Question Text":"لا احب رؤية النساء وهي تدخن"
+    },
+    {
+        "English Question Number":441,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"و",
+        "Question Text":"اجهش بالبكاء بسهولة"
+    },
+    {
+        "English Question Number":442,
+        "X":51,
+        "Y":51,
+        "Arabic Question Number":"ي",
+        "Question Text":"احياناً ارغب أن اشتم ( اسب)"
+    },
+    {
+        "English Question Number":444,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"أ",
+        "Question Text":"لا اعتقد بأن وجهي لا يحمر ابداً"
+    },
+    {
+        "English Question Number":445,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ب",
+        "Question Text":"اهلي انتقدوا مراراً علاقتي"
+    },
+    {
+        "English Question Number":446,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ج",
+        "Question Text":"احلامي لها دلالات مشاكل جنسية"
+    },
+    {
+        "English Question Number":447,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ح",
+        "Question Text":"لا اخشى دخول غرفة حيث اجتمع اشخاص اخرين للتحاور"
+    },
+    {
+        "English Question Number":448,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بأن أغلبية (أكثرية) الناس قادرون على الكذب وذلك في سبيل التقدم على سواهم"
+    },
+    {
+        "English Question Number":449,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ز",
+        "Question Text":"ليس لدي اعداء يريدون تدميري"
+    },
+    {
+        "English Question Number":450,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ه",
+        "Question Text":"يخذلني الناس في غالب الاحيان"
+    },
+    {
+        "English Question Number":451,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"و",
+        "Question Text":"مشاعري لا تنجرح بسهولة"
+    },
+    {
+        "English Question Number":452,
+        "X":52,
+        "Y":52,
+        "Arabic Question Number":"ي",
+        "Question Text":"لا أقرأ يومياً افتتاحية االجريدة"
+    },
+    {
+        "English Question Number":454,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"أ",
+        "Question Text":"غالباً ما يبدو لي مزعجاً بان وجهي سيحمر"
+    },
+    {
+        "English Question Number":455,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ب",
+        "Question Text":"اهلي وعائلتي يجدون ان لدي عيوباً تفوق ما انا اراه عندي من عيوب"
+    },
+    {
+        "English Question Number":456,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ج",
+        "Question Text":"اتمنى الا اكون معذباً جراء افكار ذات طابع جنسي"
+    },
+    {
+        "English Question Number":457,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ح",
+        "Question Text":"اتخوف من استعمال سكين أو اي شيء آخر قاطعاً جداً أو حاداً"
+    },
+    {
+        "English Question Number":458,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"د",
+        "Question Text":"اعتقد بأن جميع الناس تقريباً قد يكذبون من أجل الخروج من موقف سيء"
+    },
+    {
+        "English Question Number":459,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ز",
+        "Question Text":"لو لم يحقد علي البعض: زوجي، رفيقي، أحد من أهلي... لكنت بالفعل حققت نجاحاً اكثر"
+    },
+    {
+        "English Question Number":460,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ط",
+        "Question Text":"احب ان اكون تاجر زهور"
+    },
+    {
+        "English Question Number":461,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ه",
+        "Question Text":"لكي يكون الانسان اكثر اماناً ، عليه عدم الوثوق باحد"
+    },
+    {
+        "English Question Number":462,
+        "X":53,
+        "Y":53,
+        "Arabic Question Number":"ي",
+        "Question Text":"يحدث معي أن ارجئ الى الغد ما كان ينبغي علي فعله اليوم"
+    },
+    {
+        "English Question Number":464,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"أ",
+        "Question Text":"غالباً ما يغلف الاحمرار عنقي"
+    },
+    {
+        "English Question Number":465,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ب",
+        "Question Text":"ابي وأمي اعطياني مراراً اوامر كنت اطيعها، حتى ولو كنت اعتبرها غير محقة"
+    },
+    {
+        "English Question Number":466,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ح",
+        "Question Text":"رؤية الدم لا ترعبني ولا تنغصني"
+    },
+    {
+        "English Question Number":467,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"د",
+        "Question Text":"أغلبية الناس يستخدمون دائماً اساليب قليلة اللياقة ، للحصول على مكسب او منفعة او رشوة خوفاً من فقدان هذا المكسب أو هذه المنفعة"
+    },
+    {
+        "English Question Number":468,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ز",
+        "Question Text":"احدهم يحقد علي"
+    },
+    {
+        "English Question Number":469,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ط",
+        "Question Text":"اضطرب لدى التفكير بالحوادث المحتملة"
+    },
+    {
+        "English Question Number":470,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ه",
+        "Question Text":"باستطاعتي ان اكون صديقاً لبعض الاشخاص الذين يتصرفون بطريقة ارفضها"
+    },
+    {
+        "English Question Number":471,
+        "X":54,
+        "Y":54,
+        "Arabic Question Number":"ي",
+        "Question Text":"سلوكي على الطاولة في المنزل ليس دائماً جيداً كما هو الحال عندما اكون برفقة احد"
+    },
+    {
+        "English Question Number":473,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"أ",
+        "Question Text":"عادة يداي ورجلاي حاميتان نسبياً"
+    },
+    {
+        "English Question Number":474,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ب",
+        "Question Text":"اتجادل او اتشاحن قليلاً مع اشخاص من افراد عائلتي"
+    },
+    {
+        "English Question Number":475,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ج",
+        "Question Text":"انني انزعج دائماً من المسائل او القصص الوسخة"
+    },
+    {
+        "English Question Number":476,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ح",
+        "Question Text":"اخاف فقدان صوابي"
+    },
+    {
+        "English Question Number":477,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"د",
+        "Question Text":"ان الشخص الذي يولد التجربة بتركه عن قصد دون حماية اشياء ذات قيمة ، يلام بنفس القدر كالشخص الذي يسرق هذه الاشياء"
+    },
+    {
+        "English Question Number":478,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ز",
+        "Question Text":"انا متاكد بان الحظ لم يحالفني ابداً"
+    },
+    {
+        "English Question Number":479,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ه",
+        "Question Text":"في سيارة الاجرة ( التاكسي أو الباص)، اتكلم غالباً مع الغرباء"
+    },
+    {
+        "English Question Number":480,
+        "X":55,
+        "Y":55,
+        "Arabic Question Number":"ي",
+        "Question Text":"احب كثيراً الربح منه على الخسارة"
+    }
+]
